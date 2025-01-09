@@ -8,7 +8,11 @@ DOMAIN-SUFFIX,test-ipv6.com
 DOMAIN-SUFFIX,hklive.tv
 DOMAIN-SUFFIX,ip138.com
 DOMAIN-SUFFIX,ip.zxinc.org
+
+#GoogleCN
 DOMAIN-SUFFIX,google.cn
+DOMAIN-SUFFIX,services.googleapis.cn
+DOMAIN-REGEX,^r+[0-9]+(---|\.)sn-(2x3|ni5|j5o)\w{5}\.xn--ngstr-lra8j\.com$
 
 # System Software
 DOMAIN-SUFFIX,gallery.vsassets.io
