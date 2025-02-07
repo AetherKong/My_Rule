@@ -26,3 +26,6 @@ DOMAIN-KEYWORD,steelseries
 DOMAIN-KEYWORD,a-volute
 DOMAIN,favicon.yandex.net
 DOMAIN-KEYWORD,mathworks
+
+#DeepL
+DOMAIN-SUFFIX,api-free.deepl.com
