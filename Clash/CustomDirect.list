@@ -29,3 +29,6 @@ DOMAIN-KEYWORD,mathworks
 
 #DeepL
 DOMAIN-SUFFIX,api-free.deepl.com
+
+#论坛
+DOMAIN-SUFFIX,mydigitallife.net
